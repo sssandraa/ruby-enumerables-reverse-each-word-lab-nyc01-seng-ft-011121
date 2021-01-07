@@ -1,3 +1,3 @@
-def reverse_each_word(sentence1)
-puts scentense1.reverse
+def reverse_each_word(sentence)
+
 end
